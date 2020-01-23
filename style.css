@@ -1,0 +1,96 @@
+body{
+  background-color: rgb(221, 164, 88);
+}
+
+canvas{
+  margin-left: 20%;
+}
+
+#start-screen{
+  margin-top: 5%;
+  margin-left: 10%;
+  height: 400px;
+  width: 1000px;
+  background-image: url(../Sprites/giphy.gif);
+  background-size: 1000px 400px;
+}
+
+#level-screen{
+  margin-top: 5%;
+  margin-left: 10%;
+  height: 400px;
+  width: 1000px;
+  background-image: url(../Sprites/giphy.gif);
+  background-size: 1000px 400px;
+}
+
+#level-one{
+  margin-left:2%;
+  background-image: url(../Sprites/giphy.gif);
+  background-size: 1000px 400px;
+}
+
+#level-two{
+  margin-left:2%;
+  background-image: url(../Sprites/giphy.gif);
+  background-size: 1000px 400px;
+}
+
+.platform{
+  margin-left: 310px;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: 'Bowlby One SC', cursive;
+}
+
+.select{
+  margin-left: 350px;
+  font-family: 'Bowlby One SC', cursive;
+}
+
+#start{
+  margin-top: 115px;
+  font-family: 'Bowlby One SC', cursive;
+}
+
+h2{
+  margin-left: 415px;
+  margin-top: 50px;
+  height: 10px;
+  width: 200px;
+  font-family: 'Bowlby One SC', cursive;
+}
+h2:hover{
+  color: white;
+  font-size: 40px;
+}
+
+h3{
+  margin-left: 475px;
+  margin-top: 50px;
+  /* height: 10px; */
+  width: 200px;
+  font-family: 'Bowlby One SC', cursive;
+}
+
+h3:hover{
+  color: white;
+}
+
+h4{
+  margin-left: 430px;
+  margin-top: 50px;
+  height: 10px;
+  width: 200px;
+  font-family: 'Bowlby One SC', cursive;
+}
+h4:hover{
+  color: white;
+  font-size: 25px;
+}
+
+i{
+  padding-right: 10px;
+}
+
+
