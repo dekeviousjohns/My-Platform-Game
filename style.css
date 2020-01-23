@@ -11,7 +11,7 @@ canvas{
   margin-left: 10%;
   height: 400px;
   width: 1000px;
-  background-image: url(../Sprites/giphy.gif);
+  background-image: url(giphy.gif);
   background-size: 1000px 400px;
 }
 
@@ -20,19 +20,19 @@ canvas{
   margin-left: 10%;
   height: 400px;
   width: 1000px;
-  background-image: url(../Sprites/giphy.gif);
+  background-image: url(giphy.gif);
   background-size: 1000px 400px;
 }
 
 #level-one{
   margin-left:2%;
-  background-image: url(../Sprites/giphy.gif);
+  background-image: url(giphy.gif);
   background-size: 1000px 400px;
 }
 
 #level-two{
   margin-left:2%;
-  background-image: url(../Sprites/giphy.gif);
+  background-image: url(giphy.gif);
   background-size: 1000px 400px;
 }
 
