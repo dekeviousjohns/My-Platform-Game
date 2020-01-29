@@ -4,7 +4,7 @@ body{
 
 canvas{
   margin-left: 10%;
-  background-image: url(../Sprites/giphy.gif);
+  background-image: url(../media/giphy.gif);
   background-size: 1000px 400px;
   height: 400px;
   width: 1000px;
@@ -15,7 +15,7 @@ canvas{
   margin-left: 10%;
   height: 400px;
   width: 1000px;
-  background-image: url(../Sprites/giphy.gif);
+  background-image: url(../media/giphy.gif);
   background-size: 1000px 400px;
 }
 
@@ -28,7 +28,7 @@ canvas{
   margin-left: 10%;
   height: 400px;
   width: 1000px;
-  background-image: url(../Sprites/giphy.gif);
+  background-image: url(../media/giphy.gif);
   background-size: 1000px 400px;
 }
 
@@ -52,15 +52,6 @@ canvas{
 #back-to:hover{
   color: white;
   font-size: 25px;
-}
-
-#you-win{
-  margin-left: 310px;
-  height: 200px;
-  width: 200px;
-  background-image: url(../Sprites/win.gif);
-  font-family: 'Bowlby One SC', cursive;
-  background-size: 200px 200px;
 }
 
 h2{
